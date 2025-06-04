@@ -1,4 +1,4 @@
-<img src="banner_github.jpeg" alt="GitHub Banner" width="100%" />
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 <h1>👋🏼 Hello World! I'm Anurag — Software Developer & Tech Explorer 🚀</h1>
 🛜 Currently Building Something Exciting
 🔭 Diving Deep into Machine Learning Projects
